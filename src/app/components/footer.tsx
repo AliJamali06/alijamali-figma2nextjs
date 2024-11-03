@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Footer() {
   return (
-    <div className='main-footer'>
+    <div className="main-footer">
       <footer>
         <div className="footer-container">
           <div className="footer-left">
